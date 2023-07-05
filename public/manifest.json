@@ -1,0 +1,15 @@
+{
+  "short_name": "Matkart",
+  "name": "Ecommerce website",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "372x372",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
